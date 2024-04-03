@@ -1,5 +1,5 @@
 # FuzzyLogic---Error-Mitigation
-##Components:
+## Components:
 1. Input Variables:
    - Data Redundancy
    - Degradation Level
